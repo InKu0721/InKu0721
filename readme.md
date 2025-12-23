@@ -1,5 +1,9 @@
 <div align="center">
   
+  <img src="https://i0.hdslb.com/bfs/face/55db91bff8585a806a0e5d3e7394b129afcafa50.jpg@128w_128h_1c_1s.webp" width="128" height="128" style="border-radius: 50%; border: 3px solid #00FF41;" alt="Avatar" />
+  
+  <br><br>
+  
 ```
 ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗ 
 ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
@@ -76,94 +80,3 @@ if __name__ == "__main__":
 </div>
 
 ---
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Tools/Wrench.png" width="30px"> WEAPON SYSTEMS
-
-<div align="center">
-
-| Category | Tools & Technologies |
-|:--------:|:-------------------:|
-| **Threat Detection** | SIEM \| EDR \| YARA \| Sigma Rules |
-| **Network Analysis** | Wireshark \| tcpdump \| Zeek \| Suricata |
-| **Incident Response** | Volatility \| Autopsy \| SIFT \| REMnux |
-| **Security Tools** | Burp Suite \| Metasploit \| Nmap \| Nessus |
-| **Languages** | Python \| Bash \| PowerShell \| Go |
-| **Platforms** | Linux \| Windows \| Docker \| Kubernetes |
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="30px"> STATISTICS
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-  
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="30px"> ANIME MODE
-
-<div align="center">
-  
-  <img src="https://i.imgur.com/your-image-url.jpg" width="400" alt="東雪蓮" />
-  
-  *東雪蓮 - 守护网络世界的二次元伙伴*
-  
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="30px"> CURRENT OPERATIONS
-
-```bash
-$ ps aux | grep active_projects
-> [1] Building automated threat detection pipeline
-> [2] Analyzing latest APT campaigns
-> [3] Developing security automation scripts
-> [4] Enhancing SOC playbooks
-```
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="30px"> CONTACT MATRIX
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-0x00FF41?style=for-the-badge&logo=gmail&logoColor=white&color=000000)](mailto:your-email@example.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-0x00FF41?style=for-the-badge&logo=github&logoColor=white&color=000000)](https://github.com/YOUR_USERNAME)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ```
-  ███████╗██╗   ██╗███████╗███╗   ██╗████████╗
-  ██╔════╝╚██╗ ██╔╝██╔════╝████╗  ██║╚══██╔══╝
-  █████╗   ╚████╔╝ █████╗  ██╔██╗ ██║   ██║   
-  ██╔══╝    ╚██╔╝  ██╔══╝  ██║╚██╗██║   ██║   
-  ███████╗   ██║   ███████╗██║ ╚████║   ██║   
-  ╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝   ╚═╝   
-  ```
-  
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00FF41&style=flat-square" alt="Profile views" />
-  
-  *"In the digital realm, defense is not an option, it's a necessity."*
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Matrix](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
-</div>
